@@ -1,0 +1,2 @@
+# mobile-app-ws
+RESTful Web Service application with Java, Spring MVC, Spring Boot and Spring Data JPA to implement features like:   User sign-up and User sign-in,   Email verification,  Password Reset,  Get user details API call,   Get list of users API call and implement Pagination,   Update user details and Delete user details API calls,   Learn to secure Web Service endpoints with Spring Security,   Learn to use Amazon AWS Simple Email Service(SES) to send and request to confirm user email address,   and learn to generate and include the JSON Web Token in HTTP Request.
